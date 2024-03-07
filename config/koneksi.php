@@ -2,7 +2,7 @@
 $hostname = "localhost";
 $userdb = "root";
 $passdb = "";
-$namedb = "albumku";
+$namedb = "galery";
 
 $conn = mysqli_connect($hostname, $userdb, $passdb, $namedb);
 
